@@ -16,7 +16,7 @@ Optionally gaps can be removed using TRIMAL prior to calculating sequences dista
 
 # Usage Example
 
-python distance_PRANK.py <folder path> <outputfile>
+python distance_PRANK.py folder_path outputfile
 
 
 # Prerquisites
