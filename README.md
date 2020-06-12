@@ -8,10 +8,10 @@ Ryan K Schott, Bhawandeep Panesar, Daren C Card, Matthew Preston, Todd A Castoe,
 Genome Biol. Evol. 9(2):398–414.
 
 
-# Decsriptopm
+# Decsription
 
 These set of scripts take a folder of fasta files each containing two sequences for comparison. The sequences will be aligned either using MUSCLE or PRANK and pairwise sequence distance calculated using USEARCH.
-Optionally gaps can be removed using TRIMAL prior to calcular sequences distances, which will decrease the distances for gappy alingments.
+Optionally gaps can be removed using TRIMAL prior to calculating sequences distances, which will decrease the distances for gappy alingments.
 
 
 # Usage Example
